@@ -29,5 +29,3 @@
 </script>
 <!-- End Piwik Code -->
 {{ end }}
-
-{{ if .Params.mathjax}}{{ partial "mathjax_support.html" . }}{{ end }}
